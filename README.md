@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Git URL: [Add live site URL here](https://https://github.com/itadori-kun/order-summary-card.git)
+- Git URL: [Add git URL here](https://https://github.com/itadori-kun/order-summary-card.git)
 
 ## My process
 
